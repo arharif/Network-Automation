@@ -9,5 +9,5 @@ or </br>
 [How to network monitoring with Nagios XI](https://www.youtube.com/watch?v=Otw4BFKV1po)
 
 
-# Project Network Management and Monitoring SNMP, LibreNMS and RRD
+# Project LibreNMS Monitoring
   [my_documentation](https://github.com/arharif/Network-Automation/tree/main/Project%20Network%20Management%20and%20Monitoring%20SNMP%2C%20LibreNMS%20and%20RRD)
