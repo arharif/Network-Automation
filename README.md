@@ -1,5 +1,6 @@
 # Network-Automation
-Course and Labs
+Course, Labs & Projects.
+
 # TP 1 : Utilisation du logiciel Nagios Core pour la supervision d’un réseau
 [Setup Nagios on Ubuntu](https://www.tutorialspoint.com/nagios/index.htm) </br>
 or </br>
