@@ -30,5 +30,7 @@
 ### Clients/Agents LibreNMS : Installation et configuration</br>
 - a- D’un mobile Android</br>
 - b- D’une machine debian</br>
+### Statut de la machine Debian</br>
+### Téléchargement du rapport sur notre machine</br>
 ### Conclusion</br>
 ### Références</br>
